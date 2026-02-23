@@ -21,7 +21,7 @@ Desarrolla una página web usando HTML y CSS que permita a los usuarios suscribi
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [https://github.com/Angel95128/programacion-web/tree/Angel95128-Newsletter]  
+Repositorio en GitHub: [https://github.com/Angel95128/programacion-web/pull/3]  
 Deploy: [Pega aquí el deploy de GitHub Pages]
 ---
 
